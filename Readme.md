@@ -3,47 +3,34 @@
 ## Past Work
 
 ### Wordpress
-https://www.kickervideo.com  [Wordpress 5.2.2] [jquery&Modernizer] [United States] [I did front-end] 
+https://www.kickervideo.com  [Wordpress 5.2.2] [jquery&Modernizer] 
 
 ### Laravel
-https://carkeysexpress.com/ [Laravel] [Slick-javascript library] [LiveChat-ZendDesk Chat]
-
 htpps://www.cubizy.com(Laravel Framework)
 
 ### Shopify
 https://kane11.com/(Shopify)
 
-### Ruby on Rails
-https://4stay.com/ [Ruby on Rails] [AngularJS 1.6.5] 
-
 ### React
-https://github.com/WillieRivera/MedicalTour [MERN] [Medical Website]
+https://github.com/webdreamer/MedicalWebsite [MERN] [Medical Website]
 
 https://onegivv.com [MERN] [Non-profit website]
 
 ### Angular
+https://github.com/webdreamer/Camera_Video_Website [MEAN] [Video Analysis website with MEAN stack]
 
-https://github.com/WillieRivera/Motion [MEAN] [Video Analysis website with MEAN stack]
-
-### ASP.NET
-
-https://github.com/WillieRivera/ASP.NET-HMS [ASP.NET] [HMS with ASP.NET]
 
 ### Python
-https://github.com/WillieRivera/StockAI [Stock Prediction Application]
+https://github.com/webdreamer/LinkedinBot [Linkedin Auto Connect Bot]
 
-https://reconnect.eu[Django] [PostgreSQL]  [AWS]
+https://reconnect.eu [Django] [PostgreSQL]  [AWS]
 
 ### VueJS
-https://web-ripple-d7fdb.firebaseapp.com [Vue + Vuetify + Vuex + Firebase + D3.js]
+https://github.com/webdreamer/Vue_Beer_Table [Simple Vue Table]
 
-### Android
-https://play.google.com/store/apps/details?id=com.ttb.quiz [Quiz]
+https://houseproapp-test.herokuapp.com [VueJS]
 
-https://play.google.com/store/apps/details?id=com.binance.dev&hl=en_US [UI/UX]
 
-### HTML5 Games
-http://gameofbombs.com/landing
 
 ## Skills and Experience
 
@@ -63,7 +50,7 @@ Following is the skills and experience that I have.
 
 ✓Third-Party API: Google Geo/Map,Mapbox, Amazon MWS,Twillio,SendGrid,Stripe
 
-✓Frameworks like Express,Laravel,CodeIgniter,Shopify,Magento,Ruby on Rails
+✓Frameworks like Express,Laravel,Shopify
 
 ✓Database & Query Languages like Mysql,MongoDB,Redis
 
