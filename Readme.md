@@ -10,8 +10,6 @@ https://github.com/webdreamer/WP_PreviewFont
 ### Laravel
 htpps://www.cubizy.com(Laravel Framework)
 
-https://github.com/webdreamer/blog_laravel
-
 ### Shopify
 https://kane11.com/(Shopify)
 
