@@ -1,55 +1,5 @@
 # Summary
 
-## Past Work
-
-### Wordpress
-https://www.kickervideo.com  [Wordpress 5.2.2] [jquery&Modernizer] 
-
-https://github.com/webdreamer/WP_PreviewFont
-
-### Laravel
-htpps://www.cubizy.com(Laravel Framework)
-
-### Shopify
-https://kane11.com/(Shopify)
-
-### React
-https://github.com/webdreamer/MedicalWebsite [MERN] [Medical Website]
-
-https://github.com/webdreamer/React_Datatable [React Datatable]
-
-https://onegivv.com [MERN] [Non-profit website]
-
-### Angular
-https://github.com/webdreamer/Camera_Video_Website [MEAN] [Video Analysis website with MEAN stack]
-
-
-### Python
-https://github.com/webdreamer/LinkedinBot [Linkedin Auto Connect Bot]
-
-https://reconnect.eu [Django] [PostgreSQL]  [AWS]
-
-### VueJS
-https://github.com/webdreamer/Vue_Beer_Table [Simple Vue Table]
-
-https://houseproapp-test.herokuapp.com [VueJS]
-
-### Responsive
-https://github.com/webdreamer/ChatWebsite_Responsive 
-
-### AdminDashboard
-https://github.com/webdreamer/CarAdminDashboard [AdminDashboard] [CakePHP]
-
-
-### Google Map
-https://github.com/webdreamer/CarAdminDashboard 
-
-https://github.com/webdreamer/Journey_Googlemap
-
-### Stripe
-https://github.com/webdreamer/Stripe_React_Payment 
-
-
 ## Skills and Experience
 
 Following is the skills and experience that I have.
